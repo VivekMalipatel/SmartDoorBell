@@ -1,0 +1,7 @@
+numpy
+faiss-cpu
+insightface
+onnxruntime
+opencv-python
+streamlit
+albumentations
