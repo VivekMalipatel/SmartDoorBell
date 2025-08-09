@@ -1,0 +1,7 @@
+Install git-lfs locally on your machine then run:
+
+ git lfs install
+ git lfs track "*.onnx"
+ git add .gitattributes .insightface/models/*.onnx
+ git commit -m "feat: add insightface models via LFS"
+ git push origin main
